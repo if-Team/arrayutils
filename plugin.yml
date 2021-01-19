@@ -1,5 +1,5 @@
 ---
-name: ArrayUtils
+name: libarrayutils
 main: rita\lib\arrayutils\Loader
 version: 4.1.0
 api: [ 4.0.0 ]
