@@ -22,7 +22,7 @@
 
 declare(strict_types=1);
 
-namespace kim\present\lib\arrayutils;
+namespace rita\lib\arrayutils;
 
 use pocketmine\plugin\PluginBase;
 

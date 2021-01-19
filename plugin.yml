@@ -1,8 +1,8 @@
 ---
 name: ArrayUtils
-main: kim\present\lib\arrayutils\Loader
+main: rita\lib\arrayutils\Loader
 version: 4.1.0
 api: [ 4.0.0 ]
-authors: [ PresentKim, Blugin-team ]
-description: Library that provides a method to fancy manipulate an array
+author: RetireX Team
+description: RetireX 서버의 ArrayUtils 라이브러리
 ...
